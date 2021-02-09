@@ -6,7 +6,7 @@
 ### cs231n
 + 정형 데이터를 경험하고, computer vision 분야에 대한 호기심이 있었음
 + 딥러닝을 '모두의 딥러닝'이라는 서적으로 입문했는데, 뉴럴 넷의 수식적인 부분이 미약했던 터라 본 강의로 많은 부분을 배웠고 지식의 틈을 많이 메꾸었음
-+ 외국 대학의 강의라서 영어로 진행되지만, 해석된 강의보다는 오리지널 강의를 고집해 공부했고, 열심히 포스팅 했음
++ 외국 대학의 강의라서 영어로 진행되지만, 해석된 강의보다는 오리지널 강의를 고집해 공부함
 ### 블로그 포스팅
 + [Lecture 1 introduction](https://inhovation97.tistory.com/18?category=848870 "introduction")
 + [Lecture 2 classification pipeline](https://inhovation97.tistory.com/19?category=848870 "classification pipeline")
